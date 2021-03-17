@@ -20,11 +20,10 @@
                                                 <thead>
                                                     <tr class="bg-primary">
 
-                                                        <th width="30%">Tên Chứng Từ </th>
-                                                        <th>nhãn màu</th>
-                                                        <th width="20%"> thời gian</th>
-                                                        <th>tên Danh mục cha</th>
-                                                        <th>trạng thái</th>
+                                                        <th width="30%">Từ Khóa Tìm Kiếm </th>
+                                                        <th>thời gian lưu trữ</th>
+                                                        <th>Tên Văn Bản</th>
+                                                        <th>Tên Danh Mục</th>
                                                         <th>Tùy chọn</th>
                                                     </tr>
                                                 </thead>
